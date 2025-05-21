@@ -1,9 +1,8 @@
 body {
-<<<<<<< HEAD
-    background-image: url("növeny.jpg")
-=======
     background: fixed;
     background-attachment: fixed;
-    background-image: url("növényvilág.jfif");
->>>>>>> 7a52aa60ff9533dfcf607c378d35c5fdfa89a463
+    background-image: url("asteroid.webp");
+    background-size: 120%;
+    background-position:center;
+    opacity: 0.8;
 }

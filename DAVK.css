@@ -2,24 +2,7 @@ body {
     background: fixed;
     background-attachment: fixed;
     background-image: url("asteroid.webp");
-    background-size: 120%;
-    background-position:center;
+    background-size: 100%;
+    background-position:center; 
     opacity: 0.8;
-}
-
-.jobb-dino {
-    margin-left: 1365px;
-    margin-top: -138px;
-    padding: 0px !important;
-}
-
-.jobb-táblázat {
-    margin-left: 1375px;
-    margin-top: -138px;
-    padding: none;
-}
-
-.jobb-slideshow {
-    margin-left: 1363px;
-    margin-top: -590px;
 }

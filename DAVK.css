@@ -1,8 +1,9 @@
 body {
     background: fixed;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-image: url("asteroid.webp");
-    background-size: 100%;
+    background-size: auto;
     background-position:center; 
     opacity: 0.8;
 }
@@ -17,4 +18,12 @@ header p, section p, footer p, h1 {
 
 iframe{
     margin-left:250px
+}
+
+#barack1 {
+    
+}
+
+#barack2 {
+
 }

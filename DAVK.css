@@ -6,3 +6,15 @@ body {
     background-position:center; 
     opacity: 0.8;
 }
+
+h3 {
+    color: aqua;
+}
+
+header p, section p, footer p, h1 {
+    color: aquamarine;
+}
+
+iframe{
+    margin-left:250px
+}

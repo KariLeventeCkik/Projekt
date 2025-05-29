@@ -8,7 +8,7 @@ body {
 }
 
 h3 {
-    color: aqua;
+    color: brown;
 }
 
 header p, section p, footer p, h1 {
@@ -51,4 +51,9 @@ iframe{
 .table {
     border: 3px solid brown;
     opacity: 0.9;
+}
+
+iframe {
+    width: 1200px;
+    height: 500px;
 }

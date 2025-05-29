@@ -19,3 +19,7 @@ header p, section p, footer p, h1 {
 iframe{
     margin-left:250px
 }
+
+#maincont {
+    padding: 20px;
+}

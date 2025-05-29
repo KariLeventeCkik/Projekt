@@ -5,7 +5,6 @@ body {
     background-image: url("asteroid.webp");
     background-size: auto;
     background-position:center; 
-    opacity: 0.8;
 }
 
 h3 {
@@ -13,7 +12,7 @@ h3 {
 }
 
 header p, section p, footer p, h1 {
-    color: aquamarine;
+    color: orange;
 }
 
 iframe{
@@ -22,4 +21,25 @@ iframe{
 
 #maincont {
     padding: 20px;
+    opacity: 0.8;
+}
+
+.mainkezdo {
+    padding: 20px;
+    opacity: 0.8;
+}
+
+.kezdolap {
+    background-color: whitesmoke;
+    font-size: 18px;
+}
+
+.maineuropa {
+    padding: 20px;
+    opacity: 0.8;
+}
+
+.kezdoszoveg {
+    opacity: 1;
+    color: orange;
 }

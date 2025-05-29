@@ -13,7 +13,7 @@ h3 {
 }
 
 header p, section p, footer p, h1 {
-    color: aquamarine;
+    color: rgb(143, 143, 143);
 }
 
 iframe{

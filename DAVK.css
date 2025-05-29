@@ -43,3 +43,12 @@ iframe{
     opacity: 1;
     color: orange;
 }
+
+.krumplicss {
+    border: 3px solid brown;
+}
+
+.table {
+    border: 3px solid brown;
+    opacity: 0.9;
+}
